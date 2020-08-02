@@ -17,10 +17,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nadimsheikh07/material-ui-collapse-menu.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@nadimsheikh07"
-  },
+  },  
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
